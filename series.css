@@ -1,0 +1,354 @@
+.encabezado
+{
+    width: 100%;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
+    box-shadow: 0px 5px 10px rgb(23, 22, 22);
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    
+}
+
+/* textos */
+
+.textos
+{
+    margin-left: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    transition: 0.5s;
+    
+
+
+}
+.textos:hover
+{
+    text-decoration: underline;
+    text-decoration-color: rgb(43, 89, 241);
+    color: rgb(43, 89, 241);
+    transition: 0.5s;
+}
+.texto2
+{
+    font-size: 30px;
+    color: rgb(239, 239, 239);
+    margin-left: 100PX;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+/* series */
+.imagen21
+{
+
+
+    width: 200px;
+    margin-left: 100px;
+}
+.imagen21:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.imagen22
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.imagen22:hover
+{
+    filter: sepia(80%);
+    transition: 0.5s;
+}
+.imagen23
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.imagen23:hover
+{
+    filter: grayscale(100%) sepia(50%);
+    transition: 0.5s;
+}
+.imagen24
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.imagen24:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.imagen25
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.imagen25:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie1
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie1:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie2
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.serie2:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie3
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.serie3:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie4
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.serie4:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie5
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.serie5:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie6
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie6:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie7
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.serie7:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie8
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.serie8:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie9
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.serie9:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie10
+{
+
+    width: 200px;
+    margin-left: 30px;
+}
+.serie10:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie11
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie11:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie12
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie12:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie13
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie13:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie14
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie14:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie15
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie15:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie16
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie16:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie17
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie17:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie18
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie18:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie19
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie19:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+.serie20
+{
+
+    width: 200px;
+    margin-left: 100px;
+}
+.serie20:hover
+{
+    filter: grayscale(100%);
+    transition: 0.5s;
+}
+/* final */
+.final
+{
+    background-color: rgb(36, 40, 41);
+    width: 100%;
+    height: 200px;
+}
+.texto3
+{
+font-size: 18px;
+color: aliceblue;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.texto4
+{
+font-size: 15px;
+color: aliceblue;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.redessociales
+{
+    width: 20px;
+    height: 20px;
+    
+}
+.logos
+{
+    margin-left: 300px;
+    width: 100%;
+    height: 10px;
+}
+.logo
+{
+    width: 200px;
+    height: 100px;
+
+}
